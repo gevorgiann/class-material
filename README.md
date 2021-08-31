@@ -16,7 +16,7 @@ During the course of the semester, you will need to do perform a PULL operation 
 
   1. Clone a copy of the the COMP122 repository to your personal computer
      ```
-     git clone https://github.com/COMP122/class-material.git \~/classes/comp122/class-material/```
+     git clone https://github.com/COMP122/class-material.git \~/classes/comp122/class-material/
      ```
      - Note you will need to perform a PULL operation to get new information
      ```
