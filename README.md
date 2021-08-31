@@ -44,6 +44,3 @@ During the course of the semester, you will need to do perform a PULL operation 
  
 
 
-
-Enjoy!
-          
