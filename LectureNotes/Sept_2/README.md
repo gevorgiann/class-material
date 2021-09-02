@@ -26,6 +26,8 @@
        - go through each of the various commands
 
   1. Quick intro to SSH
+     * ssh and ssh-keygen
+     * but deferred .ssh/config
 
   1. Review of Mathematical Review
      * Deferred until Tuesday Sept 9
