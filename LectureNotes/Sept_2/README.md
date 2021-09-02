@@ -25,9 +25,9 @@
      * Use the flow from the diagram provided on the Cheatsheet
        - go through each of the various commands
 
-  1. Quick intro to SSH
-     * ssh and ssh-keygen
-     * but deferred .ssh/config
+# Deferred to Tuesday, Sept 8
+
+  1. Just afternoon Class
+     - Quick intro to SSH
 
   1. Review of Mathematical Review
-     * Deferred until Tuesday Sept 9
