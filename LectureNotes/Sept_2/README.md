@@ -14,10 +14,10 @@
   1. Git Review
     * Resources: https://git-scm.com/book/en/v2
     * The four components:
-       - the working directory
-       - the index (staging)
-       - the local repo
-       - the remote repo
+      - the working directory
+      - the index (staging)
+      - the local repo
+      - the remote repo
     * The general work flow
     * just run through the various commands.
 
