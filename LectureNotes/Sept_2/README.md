@@ -10,6 +10,7 @@
 
   1. Finish Material from August 31, 2021
      * Student Success:  Progress Life Cycle
+     * Process Status Diagram
 
   1. Git Review
     * Resources: https://git-scm.com/book/en/v2
@@ -19,6 +20,7 @@
        - the local repo
        - the remote repo
     * The general work flow
+    * Use the flow from the diagram provided on the Cheatsheet
 
 
   1. Review of Mathematical Review
