@@ -3,7 +3,10 @@
 # Agenda
   1. Announcements:
      * Code Snippets
-     * Init, Clone, Fork
+     * GIT:
+       1. git init: builds a brand new repo
+       2. git clone: makes copy that tied to the origin repo
+       3. "fork":  makes a independent copy of the origin repo
 
   1. Finish Material from August 31, 2021
      * Student Success:  Progress Life Cycle
