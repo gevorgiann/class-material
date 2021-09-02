@@ -12,14 +12,14 @@
      * Student Success:  Progress Life Cycle
 
   1. Git Review
-    * Resources: https://git-scm.com/book/en/v2
-    * The four components:
-      - the working directory
-      - the index (staging)
-      - the local repo
-      - the remote repo
-    * The general work flow
-    * just run through the various commands.
+     * Resources: https://git-scm.com/book/en/v2
+     * The four components:
+       - the working directory
+       - the index (staging)
+       - the local repo
+       - the remote repo
+     * The general work flow
+     * just run through the various commands.
 
 
   1. Review of Mathematical Review
