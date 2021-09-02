@@ -19,6 +19,7 @@
        - the local repo
        - the remote repo
     * The general work flow
+    * just run through the various commands.
 
 
   1. Review of Mathematical Review
