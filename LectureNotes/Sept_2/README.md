@@ -3,6 +3,7 @@
 # Agenda
   1. Announcements:
      * Code Snippets
+     * https://www.safaribooksonline.com/library/view/temporary-access/
      * GIT:
        1. git init: builds a brand new repo
        2. git clone: makes copy that tied to the origin repo
@@ -18,10 +19,13 @@
        - the working directory
        - the index (staging)
        - the local repo
+       ----------------------
        - the remote repo
      * The general work flow
      * Use the flow from the diagram provided on the Cheatsheet
        - go through each of the various commands
 
+  1. Quick intro to SSH
 
   1. Review of Mathematical Review
+     * Deferred until Tuesday Sept 9
