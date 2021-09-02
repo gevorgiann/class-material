@@ -26,6 +26,7 @@
        - go through each of the various commands
 
   1. Quick intro to SSH
+     - Need to pickup this info for the afternoon class 
 
   1. Review of Mathematical Review
      * Deferred until Tuesday Sept 9
