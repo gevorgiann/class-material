@@ -25,7 +25,7 @@
      * Use the flow from the diagram provided on the Cheatsheet
        - go through each of the various commands
 
-# Deferred to Tuesday, Sept 8
+# Deferred to Tuesday, Sept 7
 
   1. Just afternoon Class
      - Quick intro to SSH
