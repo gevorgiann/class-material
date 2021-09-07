@@ -1,4 +1,4 @@
-# Lecture Notes: September 2, 2021
+# Lecture Notes: September 7, 2021
 
 
 # Deferred from lasttime
@@ -27,7 +27,7 @@
 
 ### Notes of CLI commands discussed
   - ssh, scp, ssh-keygen
-  - cd, pushd, and popld
+  - cd, pushd, and popd
   - javac and java:
   - time
   - script
