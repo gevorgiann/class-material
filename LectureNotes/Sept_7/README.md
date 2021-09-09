@@ -1,4 +1,4 @@
-# Lecture Notes: September 7, 2021
+# Lecture Notes: September 7, 2021 and for September 9, 2021
 
 
 # Deferred from lasttime
@@ -9,7 +9,7 @@
   1. Review of Mathematical Review
 
 
-# Agenda
+# Agenda: Sept 7
   1. Announcements
   1. Deferred Material
      * Review of Mathematical Review
@@ -22,7 +22,44 @@
   ---
   1. Models of Computation and Communication
      - Models of Communication
-     - Models of Computation
+       * OSI/ISO and TCP/IP
+         - 7 layers of abstraction, 
+            - flow between layers (up and down via a well defined API)
+            - flow across the network
+         - 2 sections: host layers and media layers
+       * Errors in transmition
+         - checksum
+         - everything is transmited as a series of 0's and 1's 
+         - hence we go through a process of encoding and deconding continously 
+
+     - Models of Computation (defered to Sept 9)
+       * Sequentional and Combinational Circuits are essential to COMP122
+       * Therotical, Abstract (ISA), and Physical 
+
+
+# Agenda: Sept 7
+  1. Announcement
+     - UID number stuff
+     - ssh key check
+     - checksum lab
+        - parity:   even and odd, used to detect an error in transmition
+        - checkum:  used to detect an error in transmittion
+
+  1. Quick Reivew of Models of Communication
+  
+  1. Checksum Lab
+
+  1. Pickup Models of Computation
+
+
+
+
+
+
+
+
+
+
 
 
 ### Notes of CLI commands discussed
