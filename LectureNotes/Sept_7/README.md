@@ -1,7 +1,7 @@
 # Lecture Notes: September 7, 2021 and for September 9, 2021
 
 
-# Deferred from last time
+## Deferred from last time
 
   1. Just afternoon Class
      - Quick intro to SSH
@@ -9,7 +9,7 @@
   1. Review of Mathematical Review
 
 
-# Agenda: Sept 7
+## Agenda: Sept 7
   1. Announcements
   1. Deferred Material
      * Review of Mathematical Review
@@ -37,7 +37,7 @@
        * Theoretical, Abstract (ISA), and Physical 
 
 
-# Agenda: Sept 9
+## Agenda: Sept 9
   1. Announcement
      - UID number stuff
      - ssh key check
@@ -52,9 +52,6 @@
   1. Checksum Lab
 
   1. Pickup Models of Computation
-
-
-
 
 
 
