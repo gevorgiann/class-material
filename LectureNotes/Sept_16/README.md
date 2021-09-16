@@ -3,24 +3,25 @@
 
 ## Agenda
   1. Announcements:
-     - watch
+     - Watch
+     - Github class stuff
      - create you own repo?
      - Quiz
        - PDF document located within a classroom.github.com
        - clone, complete, add, commit, push
      - Quiz preparation (what the Prof does)
-       - review the materal within "class-material" (slides, notes, diagrams)
+       - review the material within "class-material" (slides, notes, diagrams)
        - craft possible questions from that material
-     
-    1. Pickup where we left off last session:
-       - 9/16: Morning:  MicroArchitecture..
-       - 9/16: Afternoon:
 
-    1. Questions from the class
-       - Key things from last time.
-       - RISC versus CISC  -- tradeoff in design
-       - Major sections/segments of memory
 
+  1. Pickup where we left off last session:
+     - 9/16: Morning:  MicroArchitecture...
+     - 9/16: Afternoon: MicroArchitecture...
+
+  1. Questions from the class
+     - Key things from last time.
+     - RISC versus CISC  -- tradeoff in design
+     - Major sections/segments of memory
 
 
   1. Process Status diagram (again)
