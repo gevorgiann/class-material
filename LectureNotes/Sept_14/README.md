@@ -1,4 +1,4 @@
-# Lecture Notes: September 14, 2021 and for September 16, 2021
+# Lecture Notes: September 14, 2021
 
 
 ## Agenda
@@ -14,15 +14,15 @@
      - Use of scp
      - Process to test the checksum program
        - redirection
-     - HOw to turn your your assignment (git push)
+     - How to turn your your assignment (git push)
 
   1. Review from last week material
      - Accept questions from students
-     - Probe the students to see if they undersand the material
+     - Probe the students to see if they understand the material
 
   1. Pickup where we left off last session:
      - 9/14: Morning:  Von Nuemann Arch
-     - 9/14: Afternoon: 
+     - 9/14: Afternoon:  Universal Computer
 
   1. Memory Organization
   1. Instruction Set Architecture
