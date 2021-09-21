@@ -28,6 +28,7 @@
        - Encoding, Encryption, Compression, and Hash 
 
 
+       
 
 
 
@@ -36,7 +37,7 @@
 
 
 
-
+## Quotes
 
   Bad News is Good News
     - Good News is No News
