@@ -24,6 +24,8 @@
            - int * pointer = & variable
 
   1. Start a new section: Encodings
+     - Function, Mapping, Encoding
+       - Encoding, Encryption, Compression, and Hash 
 
 
 
