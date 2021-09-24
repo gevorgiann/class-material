@@ -35,7 +35,7 @@
      1. reading the sequence
         - 11101101101101111001110011110010101101111001100110010110
         - 11101101 10110111 10011100    (First character, Ah, its a 3 byte sequence)
-        - 11110010 10110111 10011001 10010110  (Second Charact, Ah its a 4 byte sequence)
+        - 11110010 10110111 10011001 10010110  (Second character, Ah its a 4 byte sequence)
      1. break it a part
         -  ----1101 --110111 --011100
         - 1101110111011100
@@ -45,7 +45,7 @@
      - Hex Encoding: 0xe0b580
 
      1. 110101000000
-     2.0110101 000000
+     2. 0110101 000000
         a) 0
         b) 110101
         c) 000000
@@ -59,9 +59,9 @@
      6. 1110xxxx1011010110000000
      7. 111000001011010110000000
 
-      - double check
-      - 111000001011010110000000  (correct answer)
-      - 111000001011010110000000  (answer, correct) 
+     - double check
+     - 111000001011010110000000  (correct answer)
+     - 111000001011010110000000  (answer, correct) 
 
 
 # Next Time
