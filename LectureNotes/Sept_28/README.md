@@ -29,8 +29,16 @@
 ## Agenda:
   1. Session specific Agenda
   1. Base8 Encoding (Octal)
+  1. BCD (Binary Code Decimals)
   1. Base16 Encodoing (Hexidecimal)
   1. Base64 Encoding
+
+  * Given the bit pattern, 101100100100, decode it
+    - Octal:  101 100 100 100     : 5444 
+    - BCD:    1011 0010 0100      : Error....
+    - Hex:    1011 0010 0100      : b28 
+    - Base64: 10 1100  | 10 0100  : sk 
+
 
 ### Morning
   1. Binary Complements
