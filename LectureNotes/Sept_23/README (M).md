@@ -7,7 +7,7 @@
 
   1. Pickup where we left off, Ask Question
      1. Started new section on encodings
-     1. ASCII and Extendend ASCII
+     1. ASCII and Extended ASCII
         - ASCII requires 7 bits, used the 8th bit parity 
         - checksum pretty much superseeds the parity bit
      1. static length encoding:  ASCII
@@ -15,7 +15,7 @@
 
 
   1. UTF-8
-     1. UTF-8: Variable Lenght
+     1. UTF-8: Variable Length
         - Send 1, 2, 3, or 4 bytes per character
      1. Unary:  11110 (4), 110 (2), 111111110 (8), 
         - used to identify the number of bytes to are sent
