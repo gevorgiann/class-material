@@ -43,10 +43,12 @@
       - You should now be able to answer the question.
 
 # Example Usage of a Supporting Tool
-  1. https://www.sandbox.csun.edu/~steve/binaryMappings
-     * "2# 101101001".toDec()
-     * "2# 101101001".toHex()
-     * "2# 101101001".toBin()
-     * "2# 101101001".nibbles()
+  1. https://www.sandbox.csun.edu/~steve/binaryValues/binaryMappings.html
+     * "2# 101101001".toDec()  
+     * "2# 101101001".toHex()  
+     * "2# 101101001".toBin()  
+     * "2# 101101001".nibbles() 
      * "2# 101101001".bytes()
-     * "2# 101101001".seperate(6)
+     * "2# 101101001".seperate(6)  // separate in groups of 6
+     * "2# 101101001".chop(6)      // chop into individual numbers with 6 digits each
+     * [ "10# 2A", "8# 23" ].fuse(2)      // fuse together to obtain a binary number
