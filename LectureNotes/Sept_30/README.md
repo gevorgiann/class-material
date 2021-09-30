@@ -42,6 +42,15 @@
   1. Note any Announcements
   1. Garner any questions
 
+  1. Motivation:
+     1. Network Layers
+     1. IP Packet: 
+     1. Ethernet Frame:
+
+  1. IP Address Format
+     1. Human Readable
+     1. Binary
+
   1. Review API for binaryMappings
      * https://www.sandbox.csun.edu/~steve/binaryMappings.html
      * 
