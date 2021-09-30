@@ -16,9 +16,8 @@
 
    1. For each of the following question, provide the binary string...
       - What is the binary bit pattern of the preamble?
-        - 
       - What is the binary bit pattern of the SOF deliminator?
-        -
+
 
 1. For the following binary sequence that represents a UTF-8 string, indentify each of the individual characters of the string.  Note that you do *NOT* have decode the string, just identify each character
 
@@ -43,6 +42,4 @@
         1. run the command ``host`` with the dotted number you generated as its first arguement
       - You should now be able to answer the question.
 
-
-1. 
 
