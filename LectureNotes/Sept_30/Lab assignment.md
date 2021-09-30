@@ -43,7 +43,7 @@
       - You should now be able to answer the question.
 
 # Example Usage of a Supporting Tool
-  1. https://www.sandbox.csun.edu/~steve/binaryMappings
+  1.  https://www.sandbox.csun.edu/~steve/binaryValues/binaryMappings.html
      * "2# 101101001".toDec()
      * "2# 101101001".toHex()
      * "2# 101101001".toBin()
