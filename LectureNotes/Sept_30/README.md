@@ -69,20 +69,7 @@
 
   1. Material
      1. Mips Reference Card
-     1. MARS
-        - instructions sample encoding...
-        - 32 registers :   00 1001 == $t1
-
-     1. R Format: ------ ----- ----- ----- ----- ------
-     1. Ex. Inst: 000000 00011 00010 00010 00000 100000
-     1. Decoded:  add $v0, $v1, $v0
-
-
-     1. Encode:  addi $v0, $t1, 4
-                 ------ ----- ----- --------
-                 001000 00010 01001 0000000000000100
-
-
+        - Sept_30/"MIPS CheatSheet.pdf"
 
   1. Instruction Encodings
      1. Architecutural Overview of MIPS (part of the ISA)
@@ -90,18 +77,28 @@
         - number of instructions
 
      1. Instruction Formats for MIPS: R, I, J
-     - R: Register Instructions
-         add rd, rs, rt
-     - I: Immediate Instructions
-         addi rd, rs, 2
-         beq  rd, rs, Label
-     - J: Jump Instructions
-         j Label
+        - R: Register Instructions
+          - add rd, rs, rt
+        - I: Immediate Instructions
+          - addi rd, rs, 2
+          - beq  rd, rs, Label
+        - J: Jump Instructions
+          - j Label
 
-  1. Examples...
+  1. Examples Encoding and Decoding
+     - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
    
-
-
+     1. R Format:    
+         ```          ------ ----- ----- ----- ----- ------
+         1. Ex. Inst: 000000 00011 00010 00010 00000 100000
+         1. Decoded:  add $v0, $v1, $v0
+         ```
+ 
+      1. Encoding:  addi $v0, $t1, 4
+         ```
+         ------ ----- ----- ----------------
+         001000 00010 01001 0000000000000100
+         ```
 
 
 ## Next Time:
