@@ -21,7 +21,7 @@
 
 1. For the following binary sequence that represents a UTF-8 string, identify each of the individual characters of the string.  Note that you do *NOT* have decode the string, just identify each character
 
-   - 1100100110101001011010011110100110101001101010010101001
+   - 11001001101010010110100111101001101010011010100101010010
 
    1. Character #1:
    1. Character #2:
