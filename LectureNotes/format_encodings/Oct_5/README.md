@@ -36,7 +36,7 @@
 
 ## Questions:
    1. (M) ?  No questions
-   1. (A) ?
+   1. (A) ?  Preamble 
 
 
 ## Agenda:
@@ -47,19 +47,56 @@
   1. Material
      1. Examples Encoding and Decoding
        - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
-     1. Mips Reference Card
+     1. MIPS Reference Card
         - mips/documentation/MIPS CheatSheet.pdf
         - 32 general registers (need 5 bits to encode a register: 2^5 == 32)
         - Uses 6 bits to encode the operation (2^6 == 64)
         - Uses 5 bits to perform secondary encoding  (2^5 == 32)
+     1. example 1:
+        - and $t1, $s0, $ra
+         - R format:
+           - op: 0x00
+           - func: 0x24
+         - registers:
+           - rd: $t1 -- 01000
+           - rs: $s0 -- 10000
+           - rt: $ra -- 11111
+        - op (6) rs (5) rt (5) rd (5) sh(5) func (6)
+          * 000000 10000 11111 01000 00000 100100
+          * 00000010000111110100000000100100
+      1. example 2:
+        - sll  $t1, $s0, 3  ( $t1 = $s0 << 3 )
+          - R format:
+            - op: 0x00
+            - func: 0x00
+          - registers:
+            - rd: $t1 -- 01000
+            - rt: $s0 -- 10000
+            - sh: 3   -- 00011
+        - op(6)  rs(5) rt(5) rd(5) sh(5)  func(6)
+          * 000000 00000 10000 01000 000011 000000
 
+      1. example 3:
+        - lh $t1, 3($s0)  ( $t1 = (* $s0 ) + 3 )  # $t1 =  A[3]
+          - I format:
+            - op: 0x21
+
+         - registers:
+           - rt: $t1 : 01000
+           - imm: 3:   0000000000000011
+           - rs: $s0 : 10000
+        - op(6) rs(5) rt(5) imm(16)
+        - 100001 10000 01000 0000000000000011   
+
+  1. A && B :  && is a binary operator (infix notation)
+  1. - A    :  - is a unary operator (prefix notation)
   1. Ternary Operator
-   -  X = (a < b) ? 42 : 10;
-   -  if ( a< b) {
-         return 42;
-      } else {
-         return 10;
-      }
+     -  X = (a < b) ? 42 : 10;
+     -  if (a < b) {
+           return 42;
+        } else {
+           return 10;
+        }
 
 
   1. Instruction Encodings
