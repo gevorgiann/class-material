@@ -1,4 +1,4 @@
-# Lecture Notes: for October 5, 2021 
+# Lecture Notes: for October 7, 2021 
 
 ## Quote:
    ```
@@ -6,37 +6,13 @@
    ― Socrates
    ```
 
-## What we did last time, and were we left off
-
-  1. Motivation:
-     1. Network Layers: 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application
-     1. IP Packet: Which is at layer 3, i.e., Network layer
-     1. Ethernet Frame:
-
-  1. IP Address Format
-     1. Human Readable: 
-        1. IP address: contains 4 octets, 192.68.1.3, 192.168.0.205
-        1. Network mask: 255.255.255.0
-     1. Binary: 11000000 10101000 00000001 00000011 : 192.68.1.3,
-     1. Binary: 11000000 10101000 00000000 11001101 : 192.168.0.205
-
-  1. Ethernet Frame:
-     1. Preamble (get everyones attention): sequence of repeating: 1010101010101.....
-     1. Start of Frame (SOF): (clear my throat): the octet: 1010 1011
-     1. Send the message
-
-  1. Introduction to Instruction Encodings
- 
-## Announcements:
-   1. BGP?  Border Gateway Protocol: A routing protocol
-   1. Homework extended till tonight!  Why?
-      - Problem #1 ASCII
-      - Problem #2
+Binary Math and Floating Point Practice
+https://docs.google.com/document/d/1gHBJfZVYD8gvkG6f9Xsg9CleE2dT8pIarSH90Zuhk6c/edit#
 
 
-## Questions:
-   1. (M) ?  No questions
-   1. (A) ?
+      Base Conversion
+
+       https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784
 
 
 ## Agenda:
@@ -44,45 +20,40 @@
   1. Note any Announcements
   1. Garner any questions
 
-  1. Material
-     1. Examples Encoding and Decoding
-       - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
-     1. Mips Reference Card
-        - mips/documentation/MIPS CheatSheet.pdf
-        - 32 general registers (need 5 bits to encode a register: 2^5 == 32)
-        - Uses 6 bits to encode the operation (2^6 == 64)
-        - Uses 5 bits to perform secondary encoding  (2^5 == 32)
 
-  1. Ternary Operator
-   -  X = (a < b) ? 42 : 10;
-   -  if ( a< b) {
-         return 42;
-      } else {
-         return 10;
-      }
+## What we did last time, and were we left off
+
+1. Instruction Encoding
+   1. MIPS: all instructions encoded in a single word: 32 bits
+   1. Three primary types of instruction formats:  R, I, J
+   1. The opcode (first 6 bits) determines with format to use
+   1. Registers, immediate, and address encode within the 32 bits
+      - 32 registers so, we need 5 bits to encode each register
+      - immediate are 16 bits (positive or negative)
+      - addresses are 26 bits 
+   1. Examples Encoding and Decoding
+      - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
 
 
-  1. Instruction Encodings
-     1. Architecutural Overview of MIPS (part of the ISA)
-        - number of integer registers: 32
-        - number of instructions
+## Announcements:
+   1. 
 
-     1. Instruction Formats for MIPS: R, I, J
-        - R: Register Instructions
-   
+## Questions:
+   1. (M)
+   1. (A)
 
 
-## Next Time:
+## Lecture
   1. Expanded Notation
 
-  1. Binary Reals
+  1. Rational/Real Numbers 
 
   1. Floating Point Numbers
 
   1. Binary Numbers
      - Conversion  (3/2)
 
-## Future:
+## Next-time:
   1. Signed Integers (Slides 2/23)
      - Method of Complements (review) 
      - Use of 1's complement
