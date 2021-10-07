@@ -25,12 +25,12 @@
       - if the new exponent is negative
 
 
-| Encoding  | #Bits | Sign | Exponent | Mantissa ||  Bias |
-| --------- | ----- | :--: | -------- | -------: || ----: |
-| Binary16  |    16 |  1   |  5       |       10 ||  15  |
-| Binary32  |    32 |  1   |  8       |       23 ||  127 |
-| Binary64  |    64 |  1   |  11      |       52 ||  1024|
-| Binary128 |   128 |  1   |  15      |       112||  16383|
+| Encoding  | #Bits | Sign | Exponent | Mantissa |  Bias |
+| --------- | ----- | :--: | -------- | -------: | ----: |
+| Binary16  |    16 |  1   |  5       |       10 |  15  |
+| Binary32  |    32 |  1   |  8       |       23 |  127 |
+| Binary64  |    64 |  1   |  11      |       52 |  1024|
+| Binary128 |   128 |  1   |  15      |       112|  16383|
 
 
 
