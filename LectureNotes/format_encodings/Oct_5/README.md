@@ -21,7 +21,7 @@
      1. Binary: 11000000 10101000 00000000 11001101 : 192.168.0.205
 
   1. Ethernet Frame:
-     1. Preamble (get everyones attention): sequence of repeating: 1010101010101.....
+     1. Preamble (get everyone's attention): sequence of repeating: 1010101010101.....
      1. Start of Frame (SOF): (clear my throat): the octet: 1010 1011
      1. Send the message
 
@@ -48,7 +48,7 @@
      1. Examples Encoding and Decoding
        - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
      1. MIPS Reference Card
-        - mips/documentation/MIPS CheatSheet.pdf
+        - MIPS/documentation/MIPS CheatSheet.pdf
         - 32 general registers (need 5 bits to encode a register: 2^5 == 32)
         - Uses 6 bits to encode the operation (2^6 == 64)
         - Uses 5 bits to perform secondary encoding  (2^5 == 32)
@@ -100,7 +100,7 @@
 
 
   1. Instruction Encodings
-     1. Architecutural Overview of MIPS (part of the ISA)
+     1. Architectural Overview of MIPS (part of the ISA)
         - number of integer registers: 32
         - number of instructions
 
