@@ -6,13 +6,12 @@
    ― Socrates
    ```
 
-Binary Math and Floating Point Practice
-https://docs.google.com/document/d/1gHBJfZVYD8gvkG6f9Xsg9CleE2dT8pIarSH90Zuhk6c/edit#
+## Resources:
+   1. Binary Math and Floating Point Practice
+      - https://docs.google.com/document/d/1gHBJfZVYD8gvkG6f9Xsg9CleE2dT8pIarSH90Zuhk6c/edit#
 
-
-      Base Conversion
-
-       https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784
+   1. Base Conversion
+      - https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784
 
 
 ## Agenda:
@@ -39,21 +38,24 @@ https://docs.google.com/document/d/1gHBJfZVYD8gvkG6f9Xsg9CleE2dT8pIarSH90Zuhk6c/
    1. 
 
 ## Questions:
-   1. (M)
+   1. (M) None.
    1. (A)
 
 
-## Lecture
+## Lecture  (See the Slides)
   1. Expanded Notation
 
   1. Rational/Real Numbers 
 
   1. Floating Point Numbers
 
-  1. Binary Numbers
-     - Conversion  (3/2)
 
 ## Next-time:
+
+  1. Binary Numbers
+     - Conversion
+
+
   1. Signed Integers (Slides 2/23)
      - Method of Complements (review) 
      - Use of 1's complement
