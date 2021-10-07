@@ -30,7 +30,7 @@
       - 32 registers so, we need 5 bits to encode each register
       - immediate are 16 bits (positive or negative)
       - addresses are 26 bits 
-   1. Examples Encoding and Decoding
+   1. Examples MIP Encoding Table
       - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
 
 
@@ -61,6 +61,7 @@
      - Use of 1's complement
      - Use of 2's complement
      - Subtraction....
+
   1. Mathematical Practice (2/25, 2/18)
      - Binary Integers
      - BCD Integers
