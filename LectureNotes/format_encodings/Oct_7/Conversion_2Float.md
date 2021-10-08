@@ -5,7 +5,7 @@
 1. Enter the real binary number, e.g., ``- 101011.010101``:   
 2. Represent the number in scientific notation, e.g., ``- 1.01011010101 x 2^5``
 3. Represent the exponent in binary, e.g., ``- 1.01011010101 x 2^101`` (5)
-   - note both the binary and decimal represpentation of the exponent is denoted
+   - note the decimal represpentation of the exponent contines to be denoted below.
 4. Identify the following components within the scientific notation:
    1. the sign: ``-``:
    2. the whole part: ``1``
