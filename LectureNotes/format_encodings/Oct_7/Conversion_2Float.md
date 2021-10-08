@@ -1,13 +1,14 @@
 ## Conversion: Binary Real to Floating Point
 
 # Algorithm
+The following steps can be used to convert a binary real to IEEE floating point format.  An example is provided:
 
-1. Enter the real binary number, e.g., ``- 101011.010101``:   
-2. Represent the number in scientific notation, e.g., ``- 1.01011010101 x 2^5``
-3. Represent the exponent in binary, e.g., ``- 1.01011010101 x 2^101`` (5)
-   - note the decimal represpentation of the exponent contines to be denoted below.
+1. Enter the real binary number: ``- 101011.010101``
+2. Represent the number in scientific notation" ``- 1.01011010101 x 2^5``
+3. Represent the exponent in binary: ``- 1.01011010101 x 2^101`` (5)
+   - Note the decimal represpentation of the exponent contines to be denoted below.
 4. Identify the following components within the scientific notation:
-   1. the sign: ``-``:
+   1. the sign: ``-``
    2. the whole part: ``1``
    3. the radix: ``.``
    4. the fractional part: ``01011010101``
@@ -15,8 +16,8 @@
    6. the exponent: ``101`` (5)
 
 5. Use the following table, to determine
-   - the number of bits used for each encoded component 
-   - the bias used for the exponent
+   - the number of bits used for each encoded component, and 
+   - the bias used for the exponent.
 
 | Encoding  | Total | Sign | Exponent | Mantissa |  Bias |
 | --------- | ----: | :--: | -------: | -------: | ----: |
@@ -29,14 +30,15 @@
 
 6. Modify the encoded components, based upon the desired floating point representation
    1. sign: 
-      - set to ``1`` if "-", reset to ``0`` otherwise
+      - Set to ``1`` if "-", reset to ``0`` otherwise
    2. exponent: 
-      - add the bias to the exponent
-      - add superfluous zeros to the left to obtain the desired number of bits
-      - if the exponent is negative, the encoding method can't be used
+      - Add the bias to the exponent.
+      - Pad the exponent to obtain the desired number of bits.
+      - Always pad on the left side of the exponent.
+      - If you have to trim the exponent or if it is negative, you can't use the specific encoding format.
    3. mantissa: 
-      - pad or trim the mantissa to obtain the desired number of bits 
-      - always pad or trim on the right side of the mantissa
+      - Pad or trim the mantissa to obtain the desired number of bits.
+      - Always pad or trim on the right side of the mantissa.
 7. Concatenate the three components together:
 
 
