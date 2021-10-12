@@ -4,9 +4,8 @@
 The following steps can be used to convert a binary real to IEEE floating point format.  An example is provided:
 
 1. Enter the real binary number: ``- 101011.010101``
-2. Represent the number in scientific notation: ``- 1.01011010101 x 2^5``
 3. Represent the exponent in binary: ``- 1.01011010101 x 2^101`` (5)
-   - Note the decimal representation of the exponent contines to be denoted below.
+   - Note the decimal representation of the exponent is denoted in parenthesis.
 4. Identify the following components within the scientific notation:
    1. the sign: ``-``
    2. the whole part: ``1``
@@ -21,11 +20,11 @@ The following steps can be used to convert a binary real to IEEE floating point 
 
 | Encoding  | Total | Sign | Exponent | Mantissa |  Bias |
 | --------- | ----: | :--: | -------: | -------: | ----: |
-| Comp122   |     8 |  1   |  3       |        4 |     3 |
-| Binary16  |    16 |  1   |  5       |       10 |    15 |
-| Binary32  |    32 |  1   |  8       |       23 |   127 |
-| Binary64  |    64 |  1   |  11      |       52 |  1024 |
-| Binary128 |   128 |  1   |  15      |      112 | 16383 |
+| Comp122   |     8 |  1   |  3       |        4 |  ``011`` (3) |
+| Binary16  |    16 |  1   |  5       |       10 |  ``01111`` (15) |
+| Binary32  |    32 |  1   |  8       |       23 |  ``01111111`` (127) |
+| Binary64  |    64 |  1   |  11      |       52 |  ``01111111111`` (1024) |
+| Binary128 |   128 |  1   |  15      |      112 | ``011111111111111`` (16383) |
 
 
 6. Encode the following three components and concatenate them together:
