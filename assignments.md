@@ -25,10 +25,10 @@
    - URL: https://classroom.github.com/a/vPrZtogl
    - Due: Oct 5, 2021, 23:59 PDT
 
-1. Binary Numbers
+1. Binary Numbers Conversions and Floating Point Representation
    - A practice assignment to encode binary numbers and floating point values
-   - URL:
-   - Due: Oct 11, 2021, 23:59 PDT
+   - URL: https://classroom.github.com/a/jQbUC3bE
+   - Due: Oct 16, 2021, 23:59 PDT
 
 1. Binary Numbers with Complements
    - A practice assignment to encode signed binary number and various operations
