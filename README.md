@@ -39,7 +39,7 @@ During the course of the semester, you will need to do perform a PULL operation 
  
   1. Join the Slack COMP122 work space
       - Accept the automatic invitation via https://join.slack.com/t/csun-comp-122/signup using your @my.csun.edu address.
-      - Add the 'fitzgerald-f21' channel, this is wherel all online-discussions will be conducted.
+      - Add the 'fitzgerald-f21' channel, this is where all online-discussions will be conducted.
       - Respond to the 'Hello Class' via the 'reply to thread' option (do NOT "Also send to #fitzgerald-f21").
  
 
