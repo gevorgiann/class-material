@@ -1,5 +1,42 @@
 # Assignments for COMP 122
 
+This file contains the list of assignments for COMP 122.  It also includes information about our quizes and exams
+
+## Quizes and Exams
+1. Quiz 1: Models of Communication and Computation
+   - Coverage:
+     - Material covered within the slides presented during class
+   - URL: https://classroom.github.com/a/weWz0iSk
+   - Due: Sep 18, 2021, 23:59 PDT
+
+1. Exam 1: Formats and Encodings
+   - Coverage:
+     - all material presented in class
+     - emphasis place on the assignments in the Format and Encoding Section (see below)
+   - URL: TBD
+   - Due: Oct 21, 2021 @ the end of lab
+
+1. Digital Logic
+   - Coverage:
+     - Material cover within the slides presented during class
+   - URL: TBD
+   - Due: TBD'
+
+1. MIPS Assemble Lanaguage
+1. Final Exam
+
+---
+
+## General Assignments
+1. Getting Started
+   - Material need to get read for class
+   - URL: https://github.com/COMP122/class-material
+   - Due: ASAP
+
+1. Mathematical Review
+   - Submit via Email
+   - URL: Located within the class-material repository
+   - Due: ASAP starting on Aug 30th 
 
 ## Lab Related Assignments
 1. Checksum
@@ -40,11 +77,6 @@
 ### MIPS Encoding
 
 
-## Test and Quiz
 
-1. Quiz 1
-   - A simple quiz for the Models of Computation and Communication Section
-   - URL: https://classroom.github.com/a/weWz0iSk
-   - Due: Sep 18, 2021, 23:59 PDT
 
 
