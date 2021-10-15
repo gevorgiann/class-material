@@ -7,11 +7,8 @@
    ```
 
 ## Resources:
-   1. Binary Math and Floating Point Practice
-      - https://docs.google.com/document/d/1gHBJfZVYD8gvkG6f9Xsg9CleE2dT8pIarSH90Zuhk6c/edit#
-
    1. Base Conversion
-      - https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784
+      - [Real: Decimal to Binary Conversion](https://docs.google.com/spreadsheets/d/1aMvlfw_rzvYBObT94dX8v_O0EgELHgWrmZgWKmoLY7s/edit#gid=1434558784)
 
 
 ## Agenda:
@@ -31,7 +28,7 @@
       - immediate are 16 bits (positive or negative)
       - addresses are 26 bits 
    1. Examples MIP Encoding Table
-      - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
+      - [MIPS Encoding](https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing)
 
 
 ## Announcements:

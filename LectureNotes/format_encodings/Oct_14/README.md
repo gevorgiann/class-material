@@ -11,15 +11,19 @@
 
   1. Binary Numbers
      - Real Decimal: Conversions
-       - https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784
+       - https://docs.google.com/spreadsheets/d/1aMvlfw_rzvYBObT94dX8v_O0EgELHgWrmZgWKmoLY7s/edit#gid=1434558784
 
      - Decimal to Binary
        - whole component: 
          - sequence of integer divisions by 2
          - with the remainder providing the appropriate binary digit
+         - until converage to zero
        - fractional component:
          - sequence of multiplications by 2
          - with the overflow providing the appropriate binary digit
+         - until converage to zero or we have enough digits 
+           - (i.e., until we receive the require precision) 
+
      - Binary to Decimal
        - use expanded notation and calcutate the value, OR
        - whole component:
@@ -32,8 +36,8 @@
        - rechunk (separate into the correct number of binary digits)
        - convert each chunk (lookup table/from memory) into corresponding digit.
 
-
   1. Signed Integers: Method of Complements
+     * we can also represent negative numbers via the bias method as is done in floating point encodings
      - Special Case for Base 2:
        - define 2's complement in terms of 1's complement
      - Use of 1's complement
@@ -42,8 +46,9 @@
      - Use of 2's complement
        - for representing negative numbers
        - subtraction performed via addition of a negative number
-       - only one value of zero....
+       - only one value of zero....one extra negative number
        - requires addition to compute the value ( (~ A)+1 )
+
 
 
 ## Announcements:
@@ -54,7 +59,7 @@
       - you have time to double check now!
 
    1. Test on Formats: Thursday, Oct 21
-      - Test to be completed within a onehour time:
+      - Test to be completed within a one-hour time:
       - Document to be posted within github classroom
       - Document to be updated 
       - Document to be submitted within github classroom
@@ -64,8 +69,10 @@
       - current slides setup to demostrate operations
 
 ## Questions:
-   1. (M):
+   1. (M): None
    1. (A): 
+      - The lab and hexidecimal numbers
+      - How do we study for the exam?
 
 
 ## Lecture (See the Slides)

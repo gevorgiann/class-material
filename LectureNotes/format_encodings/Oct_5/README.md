@@ -46,7 +46,7 @@
 
   1. Material
      1. Examples Encoding and Decoding
-       - https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing
+       - [MIPS Encoding](https://docs.google.com/spreadsheets/d/1r9cj9x71JBVv3En-cOYanqRW4zSz53oSXLlScOparqY/edit?usp=sharing)
      1. MIPS Reference Card
         - MIPS/documentation/MIPS CheatSheet.pdf
         - 32 general registers (need 5 bits to encode a register: 2^5 == 32)
