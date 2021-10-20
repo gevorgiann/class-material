@@ -5,7 +5,7 @@
   1. Exam on Thursday
      - timed test during the class/lab section
      - it covers all of the Format Section
-     - attend the 9:00 am session to get final instructions
+     - attend the 9:00/2:00 am session to get final instructions
 
 # Questions
   1. (M) October 14 is missing, can you update the git repo... Yes.
@@ -14,6 +14,11 @@
   1. (M) Are we going to learn C
      - you already know C, well kinda
      - not directly
+  1. (A) Question
+     - BCD
+     - Base 4
+     - subtraction via the addition of 1's complement and initial carry bit
+     - persnickety of the prof and grading
 
 
 # At the end, go over mulitplication
