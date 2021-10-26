@@ -17,6 +17,7 @@
 
 ## Questions:
    1. (M) None..
+   1. (A)
 
 ## New Materal
 
@@ -28,7 +29,9 @@
   1. Truth Tables -- everyone has had them... no big deal
      - Large Truth Table with ALL possible outputs
      - The number of functions that exist grow rapidely as we allow more inputs.
-  1. 
+  1. Sum of Products
+     - generate a circuit quickly via the Boolean Algeabra 
+     - from ciruit, I could quickly come up the Boolen Ageabra
 
 ### Combinational Circuits
   1. 1-Bit Building Blocks
