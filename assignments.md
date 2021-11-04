@@ -3,22 +3,22 @@
 This file contains the list of assignments for COMP 122.  It also includes information about our quizes and exams
 
 ## Quizes and Exams
-1. Quiz 1: Models of Communication and Computation
+1. Quiz 1: Models of Communication and Computation (Graded)
    - Coverage:
      - Material covered within the slides presented during class
    - URL: https://classroom.github.com/a/weWz0iSk
    - Due: Sep 18, 2021, 23:59 PDT
 
-1. Exam 1: Formats and Encodings
+1. Exam 1: Formats and Encodings (Graded)
    - Coverage:
      - all material presented in class
      - emphasis place on the assignments in the Format and Encoding Section (see below)
-   - URL: TBD
+   - URL: https://classroom.github.com/a/KDtbus2H
    - Due: Oct 21, 2021 
 
 1. Digital Logic
    - Coverage:
-     - Material cover within the slides presented during class
+     - Material covered within the slides presented during class
    - URL: TBD
    - Due: TBD
 
@@ -28,36 +28,36 @@ This file contains the list of assignments for COMP 122.  It also includes infor
 ---
 
 ## General Assignments
-1. Getting Started
+1. Getting Started (Not Graded)
    - Material need to get read for class
    - URL: https://github.com/COMP122/class-material
    - Due: ASAP
 
-1. Mathematical Review
+1. Mathematical Review (Graded: Credit/No Credit, no grade report)
    - Submit via Email
    - URL: Located within the class-material repository
    - Due: ASAP starting on Aug 30th 
 
 ## Lab Related Assignments
-1. Checksum
+1. Checksum (Graded)
    - A simple Java program to get us started
    - Invite: https://classroom.github.com/a/h1Mv8ft5
    - Due: Sep 17, 2021, 14:00 PDT
 
 
-### Format and Encoding Section
+### Format and Encoding Section (Graded)
 1. Encoding Practice I 
    - A practice assignment related to ASCII, UTF-8, and Unary numbers, and some mathematical review problems. 
    - Invite: https://classroom.github.com/a/rTiXoH6x
    - Due: Sep 30, 2021, 23:59 PDT
 
-1. Encoding Practice II
+1. Encoding Practice II (Graded)
    - A practice assignment to decode ASCII, UTF-8, Octal, Hex, etc.
    - Invite: https://classroom.github.com/a/uiVS5NbV
    - Due: Oct 2, 2021, 23:59 PDT
    - Extended: Oct 5, 2021, 23:59 PDT
 
-1. MIPS Encoding
+1. MIPS Encoding (Graded)
    - A practice assignment to encode MIPS instructions focusing on the R formation
    - Invite: https://classroom.github.com/a/vPrZtogl
    - Due: Oct 5, 2021, 23:59 PDT

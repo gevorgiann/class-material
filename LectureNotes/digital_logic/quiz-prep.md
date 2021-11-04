@@ -3,7 +3,7 @@
 
 
 ## Task as an indiviaul:
-  1. Think about on question that should be on the quiz?
+  1. Think about one question that should be on the quiz?
   1. Send email to me with that question
 
 ## Questions as a group:
@@ -33,4 +33,6 @@
    Carry = AB
    SUM   = A'B + AB'  == A (+) B
 
+  
+             A - B
 
