@@ -16,11 +16,11 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - URL: https://classroom.github.com/a/KDtbus2H
    - Due: Oct 21, 2021 
 
-1. Digital Logic
+1. Quiz 2: Digital Logic (To Be Graded)
    - Coverage:
      - Material covered within the slides presented during class
-   - URL: TBD
-   - Due: TBD
+   - URL: https://classroom.github.com/a/bqnl_5ke
+   - Due: Nov 9, 2021 
 
 1. MIPS Assemble Lanaguage
 1. Final Exam
@@ -28,7 +28,7 @@ This file contains the list of assignments for COMP 122.  It also includes infor
 ---
 
 ## General Assignments
-1. Getting Started (Not Graded)
+1. Getting Started (Not a graded assignment)
    - Material need to get read for class
    - URL: https://github.com/COMP122/class-material
    - Due: ASAP
@@ -38,15 +38,15 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - URL: Located within the class-material repository
    - Due: ASAP starting on Aug 30th 
 
-## Lab Related Assignments
 1. Checksum (Graded)
    - A simple Java program to get us started
    - Invite: https://classroom.github.com/a/h1Mv8ft5
    - Due: Sep 17, 2021, 14:00 PDT
 
+---
 
-### Format and Encoding Section (Graded)
-1. Encoding Practice I 
+### Format and Encoding Section
+1. Encoding Practice I  (Graded)
    - A practice assignment related to ASCII, UTF-8, and Unary numbers, and some mathematical review problems. 
    - Invite: https://classroom.github.com/a/rTiXoH6x
    - Due: Sep 30, 2021, 23:59 PDT
@@ -62,18 +62,24 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - Invite: https://classroom.github.com/a/vPrZtogl
    - Due: Oct 5, 2021, 23:59 PDT
 
-1. Binary Numbers Conversions and Floating Point Representation
+1. Binary Numbers Conversions and Floating Point Representation (To Be Graded)
    - A practice assignment to encode binary numbers and floating point values
    - Invite: https://classroom.github.com/a/jQbUC3bE
    - Due: Oct 16, 2021, 23:59 PDT
 
-1. Binary Numbers with Complements
+1. Binary Numbers with Complements (Graded)
    - A practice assignment to encode signed binary number and various operations
    - Invite: https://classroom.github.com/a/eK0AIExd
    - Due: Oct 19, 2021, 23:59 PDT
 
+---
 ### Digitial Logic
+1. No explicit assignments
+
+---
 ### Three Address Code (TAC)
+
+---
 ### MIPS Encoding
 
 
