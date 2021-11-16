@@ -3,7 +3,8 @@
 	.text
 	.globl main
 
-main:
-	nop
-	jr $ra
-	
+
+main:   nop
+     	li $v0, 10
+     	syscall
+     	

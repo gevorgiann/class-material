@@ -3,7 +3,6 @@ num:	.space 4
 
 	.text
 	.globl main
-	.ent main
 
 main:
 	li $v0, 5     	# 5 is the code for read_int
@@ -16,6 +15,6 @@ main:
 	li $v0, 1    	# 1 is the code for print_int
 	syscall
 
-        jr $ra
+        li $v0, 10   	# 10 is the code for halt
+        syscall
 
-	.end main
