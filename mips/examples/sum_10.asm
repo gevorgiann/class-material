@@ -1,5 +1,5 @@
 	.data
-count:  .word  5
+count:  .word  10
 
 	.text
 	.globl main
