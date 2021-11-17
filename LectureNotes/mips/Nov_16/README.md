@@ -2,15 +2,13 @@
 
 ## MIPS Assembly: A new section
 
-### Bookkeeping...
-  1. Work at the assemble level --- bookkeeping is key
-  1. 
+
 ### Agenda
   1. Exercise: MARS.md
   1. Overview: MARS (MARS features.pdf)
   1. [Intro to MIPS](https://docs.google.com/presentation/d/13NbmMDsDcbJ6qLznOublbubldTsf4qAPr2wl8Ip1KDE/edit#slide=id.gfba52f9b0c_0_217) (slides)
      * cc hello_world.c
-     * cc -S hellow_world.c
+     * cc -S hello_world.c
 
 ### MIPS Notes:
 #### Highlevel Directives
@@ -21,8 +19,15 @@
   1. .macro --> .end_macro
 
 #### Data Directives
-  1. 
-  1. 
+  1. .align
+  1. .byte
+  1. .half
+  1. .word
+  1. .space
 
-#### Bookkeeping
+#### Array Index --> indirect addressing
+  1. list[5] -> list(5) --> 5(list)
+
+#### Bookkeeping!
+
 

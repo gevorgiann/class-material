@@ -21,7 +21,6 @@ Perform the following steps:
 
 1. Locate the files associated with the MIPS material
   * cd class-material
-  * cd lecture-material
   * cd mips
   * ls 
     * documentation
@@ -36,6 +35,11 @@ Perform the following steps:
   * click on the icon
   * ``open class-material/mips/mars/Mars4_5.jar``
   * ``java -jar class-material/mips/mars/Mars4_5.jar ``
+  * 
+    ```
+    alias mars="java -jar ~/Desktop/classes/comp122/class-material/mips/mars/Mars4_5.jar"
+    mars
+    ```
   * You can also run the simulator from the command line
     * ``java -jar class-material/mips/mars/Mars4_5.jar filename.asm``
 
