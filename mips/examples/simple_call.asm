@@ -4,7 +4,7 @@
 	.text
 	.globl main
 
-add4: 	nop 			# Entry point of the add4 subroutine
+add4: 	nop			# Entry point of the add4 subroutine
 	# Add the four arguments
 	# Return the final value
 
@@ -27,7 +27,7 @@ main:   nop   # Main program
 	jal add4   	# call the subroutine
 	move $s0, $v0	# move the return value
 
-	print_int($s0)	# Ansers should be 64
+	print_int($s0)	# Answers should be 64
 	halt()
 
 

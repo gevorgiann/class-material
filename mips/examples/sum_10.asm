@@ -1,5 +1,5 @@
 	.data
-count:  .word  10
+count:  .word  10       # int count = 10;
 
 	.text
 	.globl main
