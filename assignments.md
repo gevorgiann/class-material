@@ -16,7 +16,7 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - URL: https://classroom.github.com/a/KDtbus2H
    - Due: Oct 21, 2021 
 
-1. Quiz 2: Digital Logic (To Be Graded)
+1. Quiz 2: Digital Logic (Graded)
    - Coverage:
      - Material covered within the slides presented during class
    - URL: https://classroom.github.com/a/bqnl_5ke
@@ -62,7 +62,7 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - Invite: https://classroom.github.com/a/vPrZtogl
    - Due: Oct 5, 2021, 23:59 PDT
 
-1. Binary Numbers Conversions and Floating Point Representation (To Be Graded)
+1. Binary Numbers Conversions and Floating Point Representation (Graded)
    - A practice assignment to encode binary numbers and floating point values
    - Invite: https://classroom.github.com/a/jQbUC3bE
    - Due: Oct 16, 2021, 23:59 PDT

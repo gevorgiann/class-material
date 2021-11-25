@@ -57,7 +57,7 @@
  1. Control Flow
     - sum_10.asm
 
-## Did not got to...
+## Did not get to...
  1. Assignment
     - IP: Dotted Decimal <-> Integer
     - Algorithm Description

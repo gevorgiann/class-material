@@ -2,11 +2,11 @@
 # to it's dotted decimal equivalent
 
 # Example:
-#   Input:  3-2102989117
+#   Input:  -2102989117  (signed value)
 #   Output: 130.166.238.195
 #   Hex: 0x826eec3
 
-# Algorithm:
+# Algorithm "to_dotted:
 #   1. a0 = read integer
 #   2. split integer into four bytes
 #      - t0 = a0[0:7] 
@@ -14,6 +14,29 @@
 #      - t2 = a0[16:23] 
 #      - t3 = a0[24:31] 
 #   3. print each of the bytes as integers separated with a "."
+
+# Algorithm "from_dotted:
+#   1. (a0, a1, a2, a3) = read 4 bytes
+#   2. shift the bytes to be in proper position
+#   3. merge the bytes together
+#   4. print the final value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	.include "syscall_macros.asm"
 	.text
