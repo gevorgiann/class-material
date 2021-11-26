@@ -55,32 +55,43 @@ This file contains the list of assignments for COMP 122.  It also includes infor
    - A practice assignment to decode ASCII, UTF-8, Octal, Hex, etc.
    - Invite: https://classroom.github.com/a/uiVS5NbV
    - Due: Oct 2, 2021, 23:59 PDT
-   - Extended: Oct 5, 2021, 23:59 PDT
+   - Extended: Oct 5, 2021, 23:59 PT
 
 1. MIPS Encoding (Graded)
    - A practice assignment to encode MIPS instructions focusing on the R formation
    - Invite: https://classroom.github.com/a/vPrZtogl
-   - Due: Oct 5, 2021, 23:59 PDT
+   - Due: Oct 5, 2021, 23:59 PT
 
 1. Binary Numbers Conversions and Floating Point Representation (Graded)
    - A practice assignment to encode binary numbers and floating point values
    - Invite: https://classroom.github.com/a/jQbUC3bE
-   - Due: Oct 16, 2021, 23:59 PDT
+   - Due: Oct 16, 2021, 23:59 PT
 
 1. Binary Numbers with Complements (Graded)
    - A practice assignment to encode signed binary number and various operations
    - Invite: https://classroom.github.com/a/eK0AIExd
-   - Due: Oct 19, 2021, 23:59 PDT
+   - Due: Oct 19, 2021, 23:59 PT
 
 ---
 ### Digitial Logic
 1. No explicit assignments
 
----
-### Three Address Code (TAC)
 
----
 ### MIPS Encoding
+1. Bitwise Operations (To Be Graded)
+   - a practice assignment to get ready for a MIPs programming assingment
+   - Invite: https://classroom.github.com/a/_LyELg-o
+   - Due: Dec 1, 2021, 23:59 PT
+
+1. IPv Dotted Decimal Conversion (To be Assigned)
+   - MIPs assemble to convert between two different encodings for an IPv4 address
+   - Invite:
+   - Due: 
+
+2. base64 Encoding (To be Assigned)
+   - MIPS assemble to transform a binary sequence into base64
+   - Invite: 
+   - Due: 
 
 
 
