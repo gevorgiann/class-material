@@ -18,7 +18,32 @@
     - (M) none
     - (A) none
 
- 1. Quick Review from last time
+1. Quick Review from last time (M)
+    - Three Address Code (Baby Java)
+      - take at most 2 values from somewhere (location)
+      - perform an operation (addition, goto, shift, memory op.)
+      - (implicitly or explicity) store the result in a third location
+    - Stack usage for subroutines 
+      - subroutine a generic name for a method, subroutine, selection, ...
+      - a grouping of code, with a unique starting point (label === name)
+      - all actual arguments, local variables, temps are placed "theoretically" on the stack 
+        - there may be "optimization" steps, like storing return value in a register
+    - Basic Block
+      - contains only simple instruction
+      - has a starting label
+      - has at most one goto, which is at the _end_ of the block
+    - Control Flow Graphs:
+      - if-then-else, while, do-while, until, foreach, for, switch, etc.
+    - Call Graphs:  
+      - static and dynamic 
+      - recurision 
+    - Frame:
+      - a chunk of memory used by each instance of a subroutine for all of it's stuff: actual aruments, local variables, temps, and potenially a copy of all of its register
+      - a "new" call, this information in stored in the "heap" section of memory
+      - start of the frame: $fp
+      - end of the frame: $sp
+
+ 1. Quick Review from last time (A)
     - Basic Block:  
       - a set of instructions
       - starts with a label
@@ -182,43 +207,3 @@
 
 
  
-### Temp Prof Notes:
-
-
- 1. Quick Review from last time 
- 1. Subroutine Calls (simple)
-    - Frames (slides)
-    - simple_call.asm
-    - more slides
- 1. Three Address Code
- 1. Basic Blocks
- 1. Control Flow
-    - sum_10.asm
-
-
-1. Quick Review from last time (M)
-    - Three Address Code (Baby Java)
-      - take at most 2 values from somewhere (location)
-      - perform an operation (addition, goto, shift, memory op.)
-      - (implicitly or explicity) store the result in a third location
-    - Stack usage for subroutines 
-      - subroutine a generic name for a method, subroutine, selection, ...
-      - a grouping of code, with a unique starting point (label === name)
-      - all actual arguments, local variables, temps are placed "theoretically" on the stack 
-        - there may be "optimization" steps, like storing return value in a register
-    - Basic Block
-      - contains only simple instruction
-      - has a starting label
-      - has at most one goto, which is at the _end_ of the block
-    - Control Flow Graphs:
-      - if-then-else, while, do-while, until, foreach, for, switch, etc.
-    - Call Graphs:  
-      - static and dynamic 
-      - recurision 
-    - Frame:
-      - a chunk of memory used by each instance of a subroutine for all of it's stuff: actual aruments, local variables, temps, and potenially a copy of all of its register
-      - a "new" call, this information in stored in the "heap" section of memory
-      - start of the frame: $fp
-      - end of the frame: $sp
-
-

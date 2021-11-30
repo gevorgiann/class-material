@@ -97,7 +97,7 @@ from_dotted:
 	or  $s0, $s0, $t0
 
 	# Print Int
-        print_int($s0)
+    print_int($s0)
 	print_unsigned($s0)
 	print_binary($s0)
 

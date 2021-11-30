@@ -27,9 +27,9 @@
 	  syscall
 	.end_macro
 
-	.macro print_char(%c)
+	.macro print_char(%r)
 	  li $v0, 11
-	  move $a0, %c
+	  move $a0, %r
 	  syscall
 	.end_macro
 
@@ -39,9 +39,9 @@
 	  syscall
 	.end_macro
 
-	.macro print_hex(%x)
+	.macro print_hex(%r)
 	  li $v0, 34
-	  move $a0, %x
+	  move $a0, %r
 	  syscall
 	.end_macro
 
