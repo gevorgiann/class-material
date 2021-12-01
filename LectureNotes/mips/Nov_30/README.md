@@ -1,6 +1,6 @@
 # Lecture Notes for November 29, 2021
 
-## Game Plan:  4 Lectures left
+## Game Plan: 4 Lectures left
    1. Bitwise operators
    1. Base64
    1. Stack Operations
@@ -9,7 +9,7 @@
 ### Agenda
  1. Questions from last time:
     - (M) review the assignment provided over the weekend
-    - (A) 
+    - (A) difference between >>> and this >>
 
  1. Quick Review from last time
 
@@ -19,11 +19,11 @@
     - Algorithm Description
       - Use Java-based Three Address Code
       - Shifts ``( <<, >>, >>> )``
-      - Masks  ``( &, I, ^, ~)``
+      - Masks  ``( &, |, ^, ~)``
     - Convert to MIPS instructions
 
 # Homework:
-  1. wrote this program by your self
+  1. wrote this program by yourself
   1. complete the homework assignment
 
   
